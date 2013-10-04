@@ -1,0 +1,12 @@
+18) Se imprime por consola "hola mundo"
+21) Con doble comillas se tiene en cuenta los comandos introducidos, en este caso tabulador y retorno de carro. En camnio, con comillas simples sue muestra literalmente el contenido dentro de ellas.
+22) Se imprime el contenido tal cual esta dentro de las llabes sin distinguir entre comandos.
+23) Con Q mayusculas si hace distincion con la interpolacion de comandos
+24) C contiente el valor --4-- --2--
+25) Lo mismo que el ejercicio anterior pero con 'HERE' no evalua los comandos de concatenacion. El hear es como una etiqueta, un bloque.
+26) s[0,2] muestra desde el primer caracter hasta el 2º
+	s[-1,1] Muestra desde el final hasta el ultimo caracter
+	s[0,10] Muestra toda la cadena desde el principio
+27) Se muetra Hello world. Hace una concatenacion.
+28) Guarda en la variable 'e' 3 putnos.
+
